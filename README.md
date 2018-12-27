@@ -1,5 +1,5 @@
 # IP
-IP address python library for conversion and subnet calculation for glassful and classless IP addresses.
+IP address python library for conversion and subnet calculation for Classful and Classless IP addresses.
 
 ### How to use
 
